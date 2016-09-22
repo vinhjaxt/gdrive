@@ -1,5 +1,11 @@
 gdrive
 ======
+Here's how I installed it:
+
+wget -O drive https://drive.google.com/uc?id=0B3X9GlR6EmbnMHBMVWtKaEZXdDg
+mv drive /usr/sbin/drive
+chmod 755 /usr/sbin/drive
+drive
 
 
 ## Overview
