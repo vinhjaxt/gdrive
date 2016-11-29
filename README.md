@@ -2,10 +2,10 @@ gdrive
 ======
 Here's how I installed it:
 ```
-wget -O drive https://drive.google.com/uc?id=0B3X9GlR6EmbnMHBMVWtKaEZXdDg
-mv drive /usr/sbin/drive
-chmod 755 /usr/sbin/drive
-drive
+wget -O gdrive https://docs.google.com/uc?id=0B3X9GlR6EmbnQ0FtZmJJUXEyRTA&export=download
+mv drive /usr/sbin/gdrive
+chmod 755 /usr/sbin/gdrive
+gdrive
 ```
 
 
