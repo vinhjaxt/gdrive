@@ -3,7 +3,7 @@ gdrive
 Here's how I installed it:
 ```
 wget -O gdrive https://docs.google.com/uc?id=0B3X9GlR6EmbnQ0FtZmJJUXEyRTA&export=download
-mv drive /usr/sbin/gdrive
+mv gdrive /usr/sbin/gdrive
 chmod 755 /usr/sbin/gdrive
 gdrive
 ```
