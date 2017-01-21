@@ -7,7 +7,13 @@ mv gdrive /usr/sbin/gdrive
 chmod 755 /usr/sbin/gdrive
 gdrive
 ```
-
+Gdrive v1.8.0
+```
+wget -O drive 
+mv drive /usr/sbin/drive
+chmod 755 /usr/sbin/drive
+drive
+```
 
 ## Overview
 gdrive is a command line utility for interacting with Google Drive.
